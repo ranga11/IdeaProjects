@@ -1,0 +1,150 @@
+
+.contentHeader {
+    text-align: center;
+    color: white;
+}
+ button {
+    text-align: center;
+    border: 2px solid blue;
+    padding: 10px;
+    border-radius: 25px;
+    color: White;
+    background-color: blue;
+}
+
+
+body .FirstPage{
+    background-size:cover;
+    height: 500px;
+    /*width: 100%;*/
+    background-image: url("img/image2.jpeg");
+    color: white;
+}
+body .leftSide{
+    display:inline;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    margin: 30px;
+}
+body .rightSide{
+    background-size:cover;
+    /*position: relative;*/
+    /*right: 129px;*/
+    height: 340px;
+    width: 340px;
+    background-image: url("img/image1.jpg");
+    float: right;
+}
+h2{
+
+    text-align: center;
+}
+
+p{
+    display: inline-block;
+}
+body .ThirdPage{
+    height: 750px;
+    width: 100%;
+    background-color: #cccccc;
+}
+.ThirdPage .floating-box {
+
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    border: 3px solid white;
+    background-color: white;
+    text-align: center;
+}
+.floating-box .icon{
+    position: center;
+}
+.ThirdPage p{
+    text-align: center;
+    margin: 20px;
+}
+
+
+
+body .FourthPage {
+    background-size:cover;
+    height: 500px;
+    background-image: url("image11.png");
+    background-repeat: no-repeat;
+}
+.FourthPage img{
+    position: relative;
+    top: 200px;
+    left: 530px;
+}
+.fourth-page-content{
+    position: relative;
+       top: 200px;
+    left: 250px;
+    font-size: 20px;
+    color: white;
+}
+
+.FifthPage{
+    height: 300px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    color: grey;
+}
+
+.FifthPage h1{
+    color: black;
+}
+
+.SixthPage1{
+    height: 300px;
+    width: 50%;
+    display: inline-block;
+    background-color: white;
+    text-align: center;
+}
+
+
+p{
+    text-align: left;
+    font-size: 15px;
+    margin: 30px;
+
+}
+nav{
+    text-align: right;
+    color: white;
+}
+
+.img6_1{
+    background-image: url("nature1.jpg");
+    float: right;
+    width: 50%;
+    height: 300px;
+  }
+.img6_2{
+    background-image: url("nature2.jpg");
+    width: 50%;
+    height: 300px;
+}
+.SixthPage2{
+    height: 300px;
+    width: 50%;
+    display: inline-block;
+    background-color: white;
+    float: right;
+    text-align: center;
+}
+.Footer{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+
